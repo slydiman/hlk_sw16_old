@@ -8,8 +8,8 @@ Thanks to @jameshilliard for the initial code.
 
 ## Install
 
-Download `hlk_sw16_old-master.zip`, extract and copy the entire folder `hlk_sw16_old-master` folder to `custom_components` in your `config` folder.
+Download [Source code (hlk_sw16_old-0.0.1.zip)](releases/latest), extract and copy the entire folder `hlk_sw16_old-0.0.1` folder to `custom_components` in your `config` folder.
 
 ## Bonus
 
-[hlk_sw16_cmd.java](/hlk_sw16_cmd.java) is a simple command line tool to demostrate the protocol.
+[hlk_sw16_cmd.java](hlk_sw16_cmd.java) is a simple command line tool to demostrate the protocol.
