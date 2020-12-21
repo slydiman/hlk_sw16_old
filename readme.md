@@ -8,7 +8,7 @@ Thanks to @jameshilliard for the initial code.
 
 ## Install
 
-Download [Source code (hlk_sw16_old-0.0.1.zip)](releases/latest), extract and copy the entire folder `hlk_sw16_old-0.0.1` folder to `custom_components` in your `config` folder.
+Download [Source code (hlk_sw16_old-0.0.1.zip)](https://github.com/slydiman/hlk_sw16_old/releases/latest), extract and copy the entire folder `hlk_sw16_old-0.0.1` folder to `custom_components` in your `config` folder.
 
 ## Bonus
 
